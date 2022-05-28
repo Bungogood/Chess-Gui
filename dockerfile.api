@@ -18,9 +18,9 @@ RUN tar xvzf *.tar.gz \
 
 EXPOSE 5000
 
-COPY /app /app
+COPY /api /api
 
-WORKDIR /app
+WORKDIR /api
 
 RUN pip install -r requirements.txt
 
