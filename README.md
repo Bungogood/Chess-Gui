@@ -11,7 +11,7 @@ docker-compose up -d
 ## Installation
 
 ```bash
-git clone ...
+git clone git@github.com:Bungogood/Chess-Gui.git
 cd Chess-Gui
 python -m venv .venv
 source .venv/bin/activate
