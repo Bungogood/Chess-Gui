@@ -18,7 +18,7 @@ RUN tar xvzf *.tar.gz \
 
 EXPOSE 5000
 
-COPY . /app
+COPY /app /app
 
 WORKDIR /app
 
