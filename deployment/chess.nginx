@@ -1,6 +1,6 @@
 server {
     listen 80;
-    root /home/ubuntu/Projects/Chess-Gui/build;
+    root /home/ubuntu/projects/chess-gui/build;
     server_name _;
     index index.html;
 
