@@ -1,11 +1,8 @@
-__pycache__/
 .vscode/
-.venv/
+
 .git/
 logs/
 
-*.py[cod]
-
-docker-compose.yml
 dockerfile
+.github/
 .gitlab-ci.yml
